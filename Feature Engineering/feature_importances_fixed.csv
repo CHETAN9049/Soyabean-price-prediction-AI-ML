@@ -1,0 +1,32 @@
+Feature,Importance
+% Change (Over Previous Year),0.4430548900069537
+Soybean Prices (₹/qtl)_Lag6,0.381627460672317
+Month_Num,0.03155603837711751
+Import_Export_Ratio,0.02766558901115837
+Month_Cos,0.024373900782513887
+Export Soybean Meal (Tonnes),0.015448476328043309
+% Change (Over Previous Month),0.014536145543816194
+Month_Sin,0.007589710961071381
+Rainfall Actual (mm)_Lag1,0.00602822320693099
+Rainfall Actual (mm)_Lag3,0.0058867563226787465
+Rainfall Actual (mm)_Lag12,0.004959751247542038
+Harvest_Season,0.004778026276630522
+Yield (In Kg./Hectare)_Lag12,0.004675738801588394
+Rain_Yield_Interact,0.004548344493855073
+WRT (previous year),0.004165476000898346
+Rainfall Actual (mm)_Lag6,0.0037604273657542895
+Rainfall Actual (mm),0.0034304612421761417
+Rainfall Normal (mm),0.0028749868527238125
+Production (In '000 Tonne)_Lag3,0.0012440793825323642
+Market Arrivals (Tonnes)_Lag3,0.0010741359475201228
+Market Arrivals (Tonnes)_Lag1,0.0008166104189801277
+Market Arrivals (Tonnes)_Lag6,0.0007979842218209988
+Production (In '000 Tonne)_Lag6,0.0007686852212482897
+Market Arrivals (Tonnes),0.0007557454651417957
+Area (In '000 Hectare),0.0006170843004401026
+Arrivals_Export_Interact,0.0006170147395281999
+Production (In '000 Tonne)_Lag12,0.0005524974355868148
+Prev Market Arrivals (Tonnes),0.0005239667519842046
+State %,0.0004612562720630792
+Market Arrivals (Tonnes)_Lag12,0.0004438776203068197
+Mid_Year_Peak,0.000366658729077282
